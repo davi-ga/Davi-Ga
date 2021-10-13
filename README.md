@@ -1,6 +1,6 @@
  #### Hi, I’m Davi Galdino 
 - 👀 I’m interested in Cybersecurity, Linux and C
-- 🌱 I’m currently learning Kali
+- 🌱 I’m currently learning Kali.
 
 <div> 
   <a href="mailto:contatodavigos@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"</a>
