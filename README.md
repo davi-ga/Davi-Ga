@@ -14,11 +14,14 @@
     <img height="160em" src="https://github-readme-stats.vercel.app/api?username=Davi-Ga&show_icons=true&theme=onedark&include_all_commits=true&count_private=true"/>
       <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Davi-Ga&layout=compact&langs_count=7&theme=onedark"/>
 </div>
-
+<div align="center">
  <div style="display: inline_block"><br>
    <img height="45em" img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-plain.svg" />
       <img height="45em" img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" />
         <img height="45em" img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-plain.svg" />
+          <img height="45em" img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" />
+   
+          
 </div>
    
 <!---
