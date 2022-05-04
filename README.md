@@ -1,18 +1,25 @@
 #### Hi, I’m Davi Galdino 
+![9bc27292880429 5e569ff84e4d0](https://user-images.githubusercontent.com/86674827/166835264-0ba91109-65d2-47fe-8390-4fd93fdef0c9.gif)
+
 - 👀 I’m interested in Python and DataBases.
 - 🌱 I’m currently learning Data Science.
+
 
 <div> 
   <a href="mailto:contatodavigos@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"</a>
      <a href="https://www.linkedin.com/in/davi-galdino-348a99213/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
   
 ##
-    
+
+
 </div>
+ 
 <div align="center">
+  
+  
   <a href="https://github.com/Davi-Ga">
-    <img height="160em" src="https://github-readme-stats.vercel.app/api?username=Davi-Ga&show_icons=true&theme=onedark&include_all_commits=true&count_private=true"/>
-      <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Davi-Ga&layout=compact&langs_count=7&theme=onedark"/>
+    <img height="160em" src="https://github-readme-stats.vercel.app/api?username=Davi-Ga&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
+      <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Davi-Ga&layout=compact&langs_count=7&theme=radical"/>
 </div>
 <div align="center">
  <div style="display: inline_block"><br>
