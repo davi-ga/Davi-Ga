@@ -1,8 +1,8 @@
 #### Hi, I’m Davi Galdino 
 ![9bc27292880429 5e569ff84e4d0](https://user-images.githubusercontent.com/86674827/166835264-0ba91109-65d2-47fe-8390-4fd93fdef0c9.gif)
 
-- 👀 I’m interested in Python and DataBases.
-- 🌱 I’m currently learning Data Science.
+- 👀 I’m interested in Python and Django.
+- 🌱 I’m currently learning Web Development.
 
 
 <div> 
