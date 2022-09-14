@@ -23,14 +23,14 @@
 </div>
 <div align="center">
  <div style="display: inline_block"><br>
-   <img height="45em" img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-plain.svg" />
    <img height="45em" img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg"/>
+   <img height="45em" img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-plain.svg" />
    <img height="45em" img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" />
    <img height="45em" img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-plain.svg" />
    <img height="45em" img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" />
    <img height="45em" img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-plain.svg" />
    <img height="45em" img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain.svg" />
-  <img height="45em" img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain.svg" />
+   <img height="45em" img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain.svg" />
    <img height="45em" img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg" />
     <img height="45em" img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-plain.svg" />
     <img height="45em" img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/heroku/heroku-original.svg" />
