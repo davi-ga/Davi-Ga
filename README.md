@@ -1,11 +1,12 @@
 #### Hi, I’m Davi Galdino 
-![9bc27292880429 5e569ff84e4d0](https://user-images.githubusercontent.com/86674827/166835264-0ba91109-65d2-47fe-8390-4fd93fdef0c9.gif)
+![pixel-jeff-night2](https://user-images.githubusercontent.com/86674827/192269219-df20a362-38e1-400e-ada9-42e7dd94b1c1.gif)
 
 - 👀 I’m interested in Python and Django.
 - 🌱 I’m currently learning Web Development.
 
 
-<div> 
+
+
   <a href="mailto:contatodavigos@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"</a>
      <a href="https://www.linkedin.com/in/davi-galdino-348a99213/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
   
