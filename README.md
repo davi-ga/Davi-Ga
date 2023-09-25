@@ -1,5 +1,7 @@
-#### Hi, I’m Davi Galdino 
-![pixel-jeff-night2](https://user-images.githubusercontent.com/86674827/192269219-df20a362-38e1-400e-ada9-42e7dd94b1c1.gif)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Bebas+Neue&size=40&pause=500&color=FFD93D&vCenter=true&width=435&lines=Davi+Galdino;Desenvolvedor+Web)](https://git.io/typing-svg)
+
+![Wallpaper](https://github.com/Davi-Ga/Davi-Ga/assets/86674827/bc82f2a8-e9b9-4502-9c3f-f27c029a8951)
+
 
 - 👀 I’m interested in Python and Django.
 - 🌱 I’m currently learning Web Development.
