@@ -2,15 +2,7 @@
 
 ![Wallpaper](https://github.com/Davi-Ga/Davi-Ga/assets/86674827/bc82f2a8-e9b9-4502-9c3f-f27c029a8951)
 
-
-- 👀 I’m interested in Python and Django.
-- 🌱 I’m currently learning Web Development.
-
-
-
-  
 ##
-
 
 </div>
  
